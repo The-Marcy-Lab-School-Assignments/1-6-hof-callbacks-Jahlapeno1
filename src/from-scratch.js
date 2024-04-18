@@ -1,3 +1,4 @@
+/** FEEDBACK: Great job getting all test cases to pass! */
 const myForEach = (arr, callbFunc) => {
   for (const name of arr) {
     callbFunc(name)

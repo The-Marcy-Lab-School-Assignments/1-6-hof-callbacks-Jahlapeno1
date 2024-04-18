@@ -1,3 +1,4 @@
+/** FEEDBACK: Great job getting all test cases to pass! */
 const myEvery = (arr, callback) => {
   for (const value of arr) {
     if (!callback(value)) return false;
